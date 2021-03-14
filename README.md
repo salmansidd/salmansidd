@@ -1,16 +1,13 @@
-### Hi there 👋
+### About Me
 
-<!--
-**salmansidd/salmansidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I’m Salman Siddiqui.
+- 👀 I’m interested in Web Development, Web Dashboards, Data Visualization, Web Analytics and End-to-End Testing.
+- 🔭 I’m currently working on technologies such as, JavaScript, Java, Spring, React, Redux, Google Maps API, Adobe Analytics and CypressJS.
+- 🌱 I’m currently learning TypeScript and Next.js.
+- 💬 Ask me about Web Architecture and React based Apps.
+- 📫 How to reach me:
+      Email: salman.siddiqui@outlook.de,
+      LinkedIn: https://www.linkedin.com/in/salmansiddiqui11/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
